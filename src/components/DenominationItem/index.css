@@ -1,0 +1,16 @@
+.list {
+  list-style-type: none;
+}
+.btn {
+  width: 150px;
+  height: 45px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  border: 1px solid #c4c4c4;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+  font-size: 25px;
+  font-weight: 500;
+}
